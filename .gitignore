@@ -32,6 +32,13 @@ MANIFEST
 *.manifest
 *.spec
 
+
+# Pycache
+/__pycache__
+
+# Large file
+/model/RandomForstClassifer_model.pkl
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
